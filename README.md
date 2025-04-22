@@ -3,10 +3,12 @@
 
 ### Tecnologías utilizadas
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
-- **Base de datos**: PostgreSQL
-- **Despliegue**: Vercel (Frontend), Render (Backend)
+- **Node.js** + **Express** para el backend
+- **PostgreSQL** como base de datos
+- **JWT** para autenticación
+- **dotenv** para variables de entorno
+- **Docker** para contenedores y despliegue
+- **Git** para el control de versiones
 
 ### Instalación
 
