@@ -1,4 +1,4 @@
-
+### Alojarte
 **Alojarte** es una plataforma para gestionar reservas de alojamiento de manera sencilla y rápida. Permite a los usuarios encontrar espacios todo con una experiencia intuitiva.
 
 ### Tecnologías utilizadas
