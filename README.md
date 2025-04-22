@@ -1,5 +1,5 @@
 
-**Alojarte** es una plataforma para gestionar reservas de alojamiento de manera sencilla y rápida. Permite a los usuarios encontrar espacios y a los anfitriones gestionar sus propiedades, todo con una experiencia intuitiva.
+**Alojarte** es una plataforma para gestionar reservas de alojamiento de manera sencilla y rápida. Permite a los usuarios encontrar espacios todo con una experiencia intuitiva.
 
 ### Tecnologías utilizadas
 
@@ -29,7 +29,4 @@ Editar
 npm start
 Funcionalidades
 Usuarios: Registro, inicio de sesión y búsqueda de alojamientos.
-
-Anfitriones: Añadir propiedades y gestionar reservas.
-
 Pagos: Gestión de pagos dentro de la plataforma.
