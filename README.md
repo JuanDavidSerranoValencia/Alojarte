@@ -13,20 +13,18 @@
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/alojarte.git
-Instala las dependencias:
-
-bash
-Copiar
-Editar
+   ```
+2.Instala las dependencias:
+```bash
 npm install
-Configura la base de datos y conecta la aplicación.
+```
+3.Configura la base de datos y conecta la aplicación.
+4.Inicia el servidor:
 
-Inicia el servidor:
-
-bash
-Copiar
-Editar
+```bash
 npm start
-Funcionalidades
+```
+
+ ### Funcionalidades
 Usuarios: Registro, inicio de sesión y búsqueda de alojamientos.
 Pagos: Gestión de pagos dentro de la plataforma.
